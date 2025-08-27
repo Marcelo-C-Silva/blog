@@ -152,6 +152,3 @@ Este projeto é ideal para estudo de:
 
 ---
 
-## 🏷️ Licença
-
-Este projeto está sob a licença [MIT](LICENSE).  
