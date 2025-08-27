@@ -25,7 +25,7 @@ meu-blog/
 
 - **Backend**: Ruby on Rails (API-only)  
 - **Frontend**: React + Axios + Vite  
-- **Banco de dados**: PostgreSQL  
+- **Banco de dados**: SQLite  
 - **Comunicação**: API REST JSON  
 
 ---
